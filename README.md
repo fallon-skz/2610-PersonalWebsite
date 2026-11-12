@@ -19,4 +19,4 @@ Make sure you have met all of the following requirements:
 
 # Submission ✅
 
-For this assignment, submit your GitHub repository that demonstrates the requirements provided in this simulation. 
+For this assignment, access [this form](https://forms.gle/vKs9gMvQ7EN8NzGSA) and submit a link to your github repo.
