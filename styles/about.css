@@ -1,0 +1,7 @@
+.aboutMe {
+  display: grid;
+  justify-content: center;
+}
+section {
+  border-bottom: 2px solid #333333;
+}
