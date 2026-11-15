@@ -1,0 +1,21 @@
+.welcome {
+  display: flex;
+  justify-content: center;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+.content > p {
+  width: 300px;
+  height: 150px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+section {
+  border-bottom: 2px solid #333333;
+}
+img {
+  height: 15rem;
+  width: 15rem;
+}
